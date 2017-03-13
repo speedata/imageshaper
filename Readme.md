@@ -109,4 +109,14 @@ Why?
 This is used by the speedata Publisher (<https://github.com/speedata/publisher/>) to flow text around images.
 
 
-<img src="http://i.imgur.com/iKsxZSB.png" width="400px" >
+<img src="http://i.imgur.com/fBDMVWw.png" width="400px" >
+
+
+
+What do I need to get this running?
+====================================
+
+
+* [ImageMagick](https://www.imagemagick.org/script/index.php)
+* [Go](https://golang.org)
+
